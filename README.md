@@ -29,12 +29,4 @@ pip install pandas matplotlib lifetimes
 - For any questions or issues, feel free to open an issue in the repository or reach out to the author.
 
 **Author:**
-[Your Name or Username]
-[Optional: Contact Information]
-
-**License:**
-[Include license information if applicable]
-
-**Acknowledgements:**
-- This script utilizes the lifetimes library for customer lifetime value calculation.
-- The sample dataset used in this script is sourced from [provide source if applicable].
+ANIRUDH.S
